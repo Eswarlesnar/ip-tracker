@@ -1,0 +1,10 @@
+#map{
+    width : 500px;
+    height :500px;
+}
+
+.center-bigger{
+    text-align: center;
+    font-size: larger;
+    padding-top :100px;
+}
